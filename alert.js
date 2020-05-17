@@ -1,2 +1,2 @@
-alert("hello");
-alert("ça va ?");
+var message="Hello everybody"
+alert(message)
